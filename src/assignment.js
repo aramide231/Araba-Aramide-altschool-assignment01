@@ -27,7 +27,7 @@ console.log("Answer:", answer);
 
 
 
-// assignment.sumOfNumbersTo = sumOfNumbersTo;
+assignment.sumOfNumbersTo = sumOfNumbersTo;
 
 /**
  * Challenge - 2
@@ -64,7 +64,7 @@ const Number = 10;
 const results = countEvenNumbersWithin(Number);
 console.log(results);
 
-// assignment.countEvenNumbersWithin = countEvenNumbersWithin;
+assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
 /**
  * Challenge - 3
