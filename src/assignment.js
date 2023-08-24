@@ -61,8 +61,8 @@ function countEvenNumbersWithin(Number) {
 
 
 const Number = 10;
-const result = countEvenNumbersWithin(Number);
-console.log(result);
+const results = countEvenNumbersWithin(Number);
+console.log(results);
 
 // assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
